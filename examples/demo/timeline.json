@@ -1,0 +1,14 @@
+{"audio": "mix.m4a",
+ "credits": "THE PANCAKE INCIDENT\n\n\nNARRATED BY\nMostly Ana\n\n\nSTARRING\nAna as herself\nBen as himself\n\n\nNo pancakes were eaten.",
+ "motion": ["s04_batter_pour"],
+ "cycle_seconds": {"s05_smoke_alarm": 0.4},
+ "timeline": [
+  [0.00,  "card", "THE PANCAKE INCIDENT"],
+  [1.40,  "shot", "s01_apartment", "in", [["1998", 1.6, 3.0]]],
+  [3.00,  "card", "CHAPTER 1\n\nNOBODY HAD MADE PANCAKES"],
+  [4.50,  "shot", "s03_kitchen_wide", "panR"],
+  [8.00,  "shot", "s04_batter_pour", "hold"],
+  [10.20, "shot", "s05_smoke_alarm", "punch:0.72,0.18"],
+  [14.00, "credits"],
+  [34.00, "end"]
+ ]}

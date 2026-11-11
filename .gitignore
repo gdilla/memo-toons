@@ -1,0 +1,16 @@
+# Never commit media or personal project data. Keep your projects outside this repo, or under projects/.
+projects/
+.env
+*.m4a
+*.mp3
+*.wav
+*.mp4
+*.mov
+*.MOV
+*.png
+*.jpg
+*.jpeg
+.build/
+.fc.txt
+__pycache__/
+.DS_Store

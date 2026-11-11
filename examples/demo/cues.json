@@ -1,0 +1,6 @@
+{"narration": "cut.m4a", "out": "mix.m4a", "room_tone_seconds": 13,
+ "music": {"file": "credits_song.mp3", "start": 30, "length": 20, "gap": 1.0, "level_db": -16},
+ "effects": {"sizzle": {"prompt": "Batter sizzling in a frying pan, close up, no music", "seconds": 4},
+             "alarm":  {"prompt": "Shrill home smoke alarm beeping, comedic", "seconds": 3}},
+ "cues": [{"effect": "sizzle", "at": 8.0,  "length": 2.2, "level_db": -36, "fade": 0.4},
+          {"effect": "alarm",  "at": 10.2, "length": 2.5, "level_db": -28, "fade": 0.05}]}

@@ -1,0 +1,6 @@
+{"out": "cut.m4a", "pre": 0.06, "post": 0.14, "chapter_gaps": {"pancakes": 1.5},
+ "cuts": [
+  {"chapter": "intro",    "from": 0.45,  "to": 1.07,  "text": "The pancake incident."},
+  {"chapter": "pancakes", "from": 21.09, "to": 29.21, "text": "So nobody in that apartment had ever made pancakes before."},
+  {"chapter": "pancakes", "from": 44.10, "to": 47.80, "text": "And the smoke alarm was wired to the whole building."}
+ ]}
